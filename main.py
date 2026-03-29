@@ -91,3 +91,7 @@ for i in range(len(df)):
 server.quit()
 
 print(" All emails sent successfully!")
+ 
+
+
+  
